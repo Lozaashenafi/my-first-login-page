@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%
+  position: relative;
+}
+.corals {
+  font-weight: bold;
+  margin: 40px auto;
+  position: absolute;
+  left: 50px;
+}
+.create {
+  margin-top: 140px;
+  font-size: 35px;
+  text-align: center;
+}
+.first-p {
+  font-size: 20px;
+  margin-top: 8px;
+  margin-bottom: 20px;
+  opacity: 0.6;
+  text-align: center;
+}
+.login-container {
+  /* display: inline-block; */
+  color: black;
+  /* background-color: aqua; */
+  padding: 7px 120px;
+  border: solid rgb(217, 215, 215);
+  margin-bottom: 20px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.or {
+  margin-left: 60px;
+  margin-bottom: 20px;
+}
+.login {
+  text-align: center;
+}
+.info {
+  font-size: 20px;
+  margin-bottom: 5px;
+  margin-left: 0;
+}
+.box {
+  border: solid rgb(217, 215, 215);
+  padding: 7px 120px 7px 10px;
+  border-radius: 30px;
+  opacity: 0.5;
+  margin-bottom: 10px;
+}
+.checkbox-p {
+  display: inline;
+  font-weight: bold;
+  font-size: 16px;
+}
+.checkbox-wrapper {
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+.button {
+  color: #fff;
+  text-align: center;
+  background-color: #444;
+  font-size: 16px;
+  padding: 7px 160px;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.button :hover {
+  color: #444;
+  background-color: #fff;
+
+}
+.Login {
+  display: inline;
+  text-decoration-line: none;
+}
+.last-p {
+  display: inline-block;
+}
+.button-wrapper {
+  /* padding-left: 40px; */
+}
+.bottom {
+  margin-top: 10px;
+}
+
+.image {
+  position: relative;
+}
+.main-page {
+  /* text-align: center;  */
+  padding-left: 170px;
+  padding-right: 150px;
+}
+.textin-image {
+  position: absolute;
+  bottom: 100px;
+  color: #fff;
+  text-align: center;
+  width: 450px;
+  margin-left: 130px;
+  font-style: initial;
+}
+.header-1 {
+  font-size: 28px;
+  text-align: center;
+}
+.aboutus {
+  font-size: 18px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+.about {
+  margin-top: 20px;
+}
+.guarantee {
+  display: inline;
+  border: solid rgb(217, 215, 215);
+  padding: 7px 20px;
+  border-radius: 25px;
+  margin-right: 15px;
+}
+.delivery {
+  display: inline-block;
+  border: solid rgb(217, 215, 215);
+  padding: 7px 20px;
+  border-radius: 25px;
+}
+.image-container {
+  /* background-image: url(./img/image.jpg); */
+  margin-right: 40px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+  
